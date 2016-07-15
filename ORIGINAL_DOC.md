@@ -2,6 +2,8 @@
 
 Posted on December 31, 2010 in Code, Linux, Open Source
 
+http://joshua14.homelinux.org/blog/?p=492
+
 I’ve been using gPodder as a podcast downloader for quite a while, which is great for a desktop system like Ubuntu, but less awesome (i.e. can’t be done) for cron-jobbing on my server. What I wanted was something I could use to store my podcast subscriptions and set it up as a cron job on my server and download all my podcasts to my server whenever there was a new episode out. I had a look around on the net for an RSS-based podcast downloader for the command line and couldn’t find one. I mean, not one.
 Since I’ve been meaning to learn Python for quite a while, I thought this would be the ideal opportunity to learn a bit of Python and get a useful tool out of it that I could actually use. So, without further ado, I present to you PodGrab, my Python podcast downloader.
 
